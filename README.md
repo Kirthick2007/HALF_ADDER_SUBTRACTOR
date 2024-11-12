@@ -71,7 +71,8 @@ Developed by: RegisterNumber:*/
 
 
 **Output/TIMING Waveform**
-![Uploading Screenshot 2024-11-12 105556.png…]()
+![Screenshot 2024-11-12 105556](https://github.com/user-attachments/assets/c4722ea0-53cd-40fb-a571-8849ed4e72f6)
+
 
 
 **Result:**
