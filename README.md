@@ -59,7 +59,7 @@ output sm,cy,df,bo;
 xor(sm,a,b);
 and(cy,a,b);
 xor(df,a,b);
-and(b0,~a,b);
+and(bo,~a,b);
 endmodule
 ```
 /* Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
@@ -67,10 +67,12 @@ endmodule
 Developed by: RegisterNumber:*/
 
 **RTL Schematic**
-![Screenshot 2024-11-05 102144](https://github.com/user-attachments/assets/6a75d7ad-dc6f-4a31-a9cc-a51cab9dcd13)
+![Screenshot 2024-11-12 105123](https://github.com/user-attachments/assets/c53d0cbf-a298-4d52-a1bf-1fc63aaa020c)
+
 
 **Output/TIMING Waveform**
-![Screenshot 2024-11-05 103143](https://github.com/user-attachments/assets/c6973600-81e9-43a3-a8fa-134bab4d4ae0)
+![Uploading Screenshot 2024-11-12 105556.png…]()
+
 
 **Result:**
 thus the half adder and half subtractor circuit and truth table are verified
